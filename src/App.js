@@ -68,7 +68,7 @@ function App() {
      
     <Route exact path='/about' element={<About/>}/>
       
-   </Routes>
+   </Routes><Footer/>
     </Router>
   );
 }
